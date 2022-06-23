@@ -121,7 +121,7 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <title>Home Page</title>
     <h1 style={headingStyles}>
-        Hi my name is Joe Aazzara
+        Hi my name is Joe Azzara
         <br />
         
                 

@@ -1,0 +1,10 @@
+name = "gatsby-project"
+type = "webpack"
+account_id = "68a3ce46ff1f2c206a5a2a2f9dd13312"
+workers_dev = true
+route = ""
+zone_id = ""
+
+[site]
+bucket = "./public"
+entry-point = "workers-site"
