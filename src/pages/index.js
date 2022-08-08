@@ -126,7 +126,11 @@ const IndexPage = () => {
         
                 
       </h1>
-      <body>Please email me at joe.azzara@gmail.com
+      <body>
+        <a>Please email me at joe.azzara@gmail.com</a>
+         <a href="https://www.joeazzaara.com/"></a>
+
+
 </body>
       
       
